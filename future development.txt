@@ -1,2 +1,2 @@
-print("This is first row")
-print("Second row")
+print("This is first row");
+print("Second row");
