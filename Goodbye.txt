@@ -1,0 +1,2 @@
+print("Goodbye World")
+print("Every world needs goodbye message")
